@@ -1,11 +1,6 @@
 {
   "licenses": [
     {
-      "userId": "DMJ2DVFZJT3BFXCQ",
-      "name": "Vladyslav Shelkoviy",
-      "status": "active"
-    },
-    {
       "userId": "FYTJR3C4MT776VNV",
       "name": "Oleksandr Melnychenko",
       "status": "active"
@@ -13,6 +8,11 @@
     {
       "userId": "E8T2SKXTLYKZUC7P",
       "name": "Dmytro Tunik",
+      "status": "active"
+    },
+    {
+      "userId": "FHT2VR29QBM6C92Z",
+      "name": "Oleksandr Nezdiimynoha",
       "status": "active"
     }
   ]
